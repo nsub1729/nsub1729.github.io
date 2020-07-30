@@ -1,7 +1,12 @@
+# Site
+name: "Narayan"
+title: "Narayan"
+description: "Narayan writes"
+baseurl: ""
 site: Narayan
 url: www.narayanwrites.com
 title: Narayan's blog
-description: Simple and minimalistic jekyll blogging theme.
+permalink: /:title/
 twitter:
   username: #yourusername
   card: summary
@@ -12,9 +17,6 @@ author:
   avatar:
   email: #youremail
   url: #yoururl
-permalink: pretty
-
-baseurl: ""
 
 highlighter: none
 
